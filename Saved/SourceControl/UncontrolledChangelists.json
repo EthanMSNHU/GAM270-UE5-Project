@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/BP_AreanaGameMode.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/IA_Look.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/IA_MoveForward.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/IA_MoveRight.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/IA_Fire.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/IA_Jump.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/IMC_Player.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/BP_PlayerCharacter.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/BP_PlayerController.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/1Z/XYQ6Y0GUM8W1E0V1JFIDFE.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/BP_Projectile.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/NewBlueprint.uasset",
+				"D:/Unreal Engine 5/unrealproject/Fina_Project/Content/newprojectile.uasset"
+			]
+		}
+	]
+}
